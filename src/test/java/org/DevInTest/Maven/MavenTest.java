@@ -15,4 +15,10 @@ public class MavenTest {
     {
         System.out.println("Git Test");
     }
+
+    @Test
+    public void testSCMPoll()
+    {
+        System.out.println("SCM Poll Test");
+    }
 }
