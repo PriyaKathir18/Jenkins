@@ -11,6 +11,8 @@ public class MavenDemo {
     public void tryJenkins()
     {
         System.out.println("SCM Poll Check");
+        System.out.println("Try");
     }
+
 
 }
